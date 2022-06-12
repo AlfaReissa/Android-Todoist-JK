@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_navdraw_container">NavdrawContainerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <!-- Activity Main -->
+    <string name="titlepage">Nugas Yuk!</string>
+    <string name="subtitlepage">Lets finish our job!</string>
+    <string name="endpage">There is no new task</string>
+
+
+    <!-- New Task page -->
+    <string name="addpage">Add Task</string>
+
+    <string name="addtitle">Task Title</string>
+    <string name="titledoes">Task Title</string>
+
+    <string name="adddesc">Task Description</string>
+    <string name="descdoes">Task Description</string>
+
+    <string name="adddate">Deadline</string>
+    <string name="datedoes">Januari 1</string>
+
+    <string name="btnSaveTask">Add</string>
+    <string name="btnCancel">Cancel</string>
+
+    <!-- Edit Task Page -->
+    <string name="editpage">Edit Detail Task</string>
+
+    <string name="btnSaveUpdate">Save</string>
+    <string name="btnDelete">Delete</string>
+
+    <string name="language" translatable="false">language</string>
+    <string name="klik_untuk_pilih_tanggal">Click to choose data</string>
+    <string name="fix_input_first">Fix your input first</string>
+    <string name="berhasil_input_data">Success</string>
+    <string name="gagal_input_data">Failed</string>
+    <string name="choose_action">Choose Action</string>
+    <string name="action_hapus">Delete</string>
+    <string name="action_ubah_data">Change Data</string>
+    <string name="data_deleted">Data Deleted</string>
+    <string name="data_deleted_fail">Data Deleted Fail</string>
+    <string name="simpan_perubahan">Save Change</string>
+    <string name="gagal_menampilkan_data">Failed to Show Data</string>
+    <string name="tanggal_tidak_boleh_dupdate">Date is not updateable</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="u_login_with">You logged in as user with id : </string>
+    <string name="ganti_bahasa">Change Language</string>
+    <string name="ganti_bahasa_">Change Language</string>
+    <string name="inggris">English</string>
+    <string name="indonesia">Bahasa</string>
+    <string name="TidakPunyaAkun">Doesnt Have an Account ?</string>
+    <string name="Daftar__">Register</string>
+    <string name="email_format_error">Email is not valid</string>
+    <string name="minimal_8_karakter">minimum 8 character</string>
+    <string name="column_required">this column is required</string>
+
+</resources>
